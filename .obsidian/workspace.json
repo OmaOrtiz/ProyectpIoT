@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "42214357ab2cbce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "22588f1f17fdc00a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd6bedcd80591879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codigo proyecto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d30a366588b4fbac",
+    "type": "split",
+    "children": [
+      {
+        "id": "7307a5991d0f5274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71fbf3fb04bed236",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea113f67de3ffe96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f190524c83fef49a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2608df1d21ce41b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f74a16b198fdd7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "794c997f34e9e2a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "codigo proyecto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed03bc71c25cc99a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "codigo proyecto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2cd5cf5459da7e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "312c6ef69a9b3c78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "codigo proyecto.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd6bedcd80591879",
+  "lastOpenFiles": [
+    "codigo proyecto.md",
+    "ESP32-CAM-Pinout.webp",
+    "ESP32-pinout-30pins.png",
+    "Captura desde 2023-07-30 16-56-29.png",
+    "Stunning.md",
+    "Stunning Bigery-Amur.png",
+    "home/omar/Documentos/Notas/proyecto/Stunning.md",
+    "home/omar/Documentos/Notas/proyecto",
+    "home/omar/Documentos/Notas",
+    "home/omar/Documentos",
+    "home/omar",
+    "home"
+  ]
+}
